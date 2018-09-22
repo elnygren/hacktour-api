@@ -1,0 +1,53 @@
+---
+- event: "Hack Tour Pre-Event: Riga"
+  id: 1
+  time: Thursday, September 13, 2018 at 5 PM – 10 PM
+  address: Buildit Accelerator
+  address2: 20 Elizabetes iela, Riga, Latvia-LV-1050
+  coverPhoto: /static/images/img1.jpg
+  fbEventURL: https://www.facebook.com/events/214839572529170/
+
+
+- event: "Hack Tour Pre-Event: Minsk"
+  id: 2
+  time: Wednesday, September 19, 2018 at 5 PM – 10 PM
+  address: Imaguru: Бизнес-Клуб/Startup Hub
+  address2: Минск, ул. Фабрициуса, 4, 220007 Minsk, Belarus
+  coverPhoto: /static/images/img2.jpg
+  fbEventURL: https://www.facebook.com/events/1847111105336743/?active_tab=about
+
+
+- event: "Hack Tour Pre-Event: Kyiv"
+  id: 3
+  time: Wednesday, September 22, 2018 at 7 PM – 12 AM
+  address: Bogdana Khmelnitskogo Street 17/52, Kyiv, Ukraine, 01030"
+  address2:
+  coverPhoto: /static/images/img3.jpg
+  fbEventURL: https://www.facebook.com/events/1994162684208062/
+
+
+- event: "Hack Tour Pre-Event: Tallinn"
+  id: 4
+  time: Wednesday, September 26, 2018 at 5 PM – 10 PM
+  address: LIFT99co
+  address2: Telliskivi 60a B building, 10134 Tallinn, Estonia
+  coverPhoto: /static/images/img4.jpg
+  fbEventURL: https://www.facebook.com/events/496110014192650/
+
+
+- event: "Hack Tour Pre-Event: Tartu"
+  id: 5
+  time: Thursday, September 27, 2018 at 5 PM – 10 PM
+  address: SPARK HUB
+  address2: Narva mnt 3, 51013 Tartu, Estonia
+  coverPhoto: /static/images/img5.jpg
+  fbEventURL: https://www.facebook.com/events/479873285819238/
+
+- event: "Hack Tour Pre-Event: Stockholm"
+  id: 6
+  time: Saturday, October 6, 2018 at 5 PM – 10 PM UTC+02
+  address: Searchmint
+  address2: Sankt Eriksgatan 63, 11234 Stockholm, Sweden
+  coverPhoto: /static/images/img6.jpg
+  fbEventURL: https://www.facebook.com/events/1963533770371320/
+
